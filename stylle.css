@@ -1,0 +1,80 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.orange{
+    color: blue;
+} 
+.flexible-cointainer{
+display: flex;
+}  
+.messi{
+    width: 50%;
+}  
+.messi{
+    padding-left: ;
+}
+.messi image{
+    width: 0%;
+} 
+.messi image{
+    padding-right: 5;
+} 
+.messi image{
+    height: 50;
+} 
+.explore{
+    text-decoration: none; 
+    background-color: blue; 
+    color: white; 
+    padding: 10px 40px; 
+    font-weight: 700; 
+}  
+.neymar{
+    width: 50%;
+}
+.ronaldo{
+    background-color: blue; 
+    color: white; 
+    padding: 10px 40px;
+    font-weight: 700; 
+    text-decoration: none;
+} 
+.joy{
+    width: 70%;
+}
+.abid{
+    text-decoration: none;
+    background-color: blue; 
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700;
+} 
+span{
+    color: blue;
+}
+#center{
+    text-align: center;
+}
+  
+.blue{
+    color: blueviolet;
+} 
+.red{
+    width: 405;
+    margin-left: 5%;
+    margin-right: 5%; 
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px brown;
+} 
+#rifat{
+    text-align: center;
+}  
+#amir{
+    text-align: center;
+} 
+.flexible-cointainer{
+    padding: 5px;
+}
+.pic{
+    width: 10px;
+}
